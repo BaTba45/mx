@@ -1,0 +1,5 @@
+Match (RUS)|ooomatch
+Match Arena (RUS)|rumatcharena
+Match Igra (RUS)|migra
+Eurosport 1 (RUS)|eurosport1ru
+Eurosport 2 (RUS)|ruseurosport2
